@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.concert.Concert", "id_entity": "1", "nume": "abc", "locatie": "botosani", "capacitate": 1000, "id_artist": "1"}, "2": {"py/object": "Domain.concert.Concert", "id_entity": "2", "nume": "def", "locatie": "cluj", "capacitate": 10000, "id_artist": "2"}}

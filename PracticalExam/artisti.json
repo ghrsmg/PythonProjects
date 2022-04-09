@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.artist.Artist", "id_entity": "1", "nume": "Gabriel", "categorie": " muzica", "tarif": 20.0}, "2": {"py/object": "Domain.artist.Artist", "id_entity": "2", "nume": "Gherasim", "categorie": " pop", "tarif": 1000.0}}
