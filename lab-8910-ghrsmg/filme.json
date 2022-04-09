@@ -1,0 +1,34 @@
+{
+  "135": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "135",
+    "titluFilm": "A Boy Called Christmas",
+    "anaparitieFilm": "2016",
+    "pretbiletFilm": 30.0,
+    "inprogramFilm": "da"
+  },
+  "625": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "625",
+    "titluFilm": "Just Go With It",
+    "anaparitieFilm": "2009",
+    "pretbiletFilm": 10.0,
+    "inprogramFilm": "nu"
+  },
+  "225": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "225",
+    "titluFilm": "Ride Along 2 ",
+    "anaparitieFilm": "2018",
+    "pretbiletFilm": 27.0,
+    "inprogramFilm": "nu"
+  },
+  "95": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "95",
+    "titluFilm": "Ride Along 2 ",
+    "anaparitieFilm": "2011",
+    "pretbiletFilm": 29.0,
+    "inprogramFilm": "nu"
+  }
+}

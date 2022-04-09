@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": 1,
+    "titluFilm": "Titanic",
+    "anaparitieFilm": "2000",
+    "pretbiletFilm": 20.0,
+    "inprogramFilm": "da"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": 2,
+    "titluFilm": "Home alone",
+    "anaparitieFilm": "2002",
+    "pretbiletFilm": 10.0,
+    "inprogramFilm": "da"
+  }
+}
