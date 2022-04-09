@@ -1,0 +1,52 @@
+{
+  "87": {
+    "py/object": "Domain.cardclient.CardClient",
+    "idEntitate": "87",
+    "nume": "Albulescu",
+    "prenume": "Marian",
+    "CNP": "6450938240202",
+    "datanastere": "01.01.2001",
+    "datainregistrare": "08.06.2020",
+    "puncteacumulate": 15.2
+  },
+  "380": {
+    "py/object": "Domain.cardclient.CardClient",
+    "idEntitate": "380",
+    "nume": "Cantemir",
+    "prenume": "Marian",
+    "CNP": "1911250290615",
+    "datanastere": "28.02.2003",
+    "datainregistrare": "08.06.2020",
+    "puncteacumulate": 684.0
+  },
+  "493": {
+    "py/object": "Domain.cardclient.CardClient",
+    "idEntitate": "493",
+    "nume": "Bazon",
+    "prenume": "Lorena",
+    "CNP": "4667744144799",
+    "datanastere": "07.07.2004",
+    "datainregistrare": "28.02.20011",
+    "puncteacumulate": 398.0
+  },
+  "132": {
+    "py/object": "Domain.cardclient.CardClient",
+    "idEntitate": "132",
+    "nume": "Alexe",
+    "prenume": "Fabiana",
+    "CNP": "17657981787248",
+    "datanastere": "12.12.2004",
+    "datainregistrare": "28.02.20011",
+    "puncteacumulate": 141.0
+  },
+  "735": {
+    "py/object": "Domain.cardclient.CardClient",
+    "idEntitate": "735",
+    "nume": "Dogaru",
+    "prenume": "Dan",
+    "CNP": "9482636489468",
+    "datanastere": "01.01.2001",
+    "datainregistrare": "13.04.2013",
+    "puncteacumulate": 1000000131.0
+  }
+}
